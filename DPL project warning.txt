@@ -1,0 +1,5 @@
+I have a data leakage in the program. 
+This results in the program unable to jump out of the while loop that operates  like a for loop.
+I will get the code fixed today or tomorrow. I cannot put my code in a module because my server 
+dictates the conversion process you guys are writing. the data from java is in the buffer variable.
+The variable must be displayed in the while loop that is operating like a for loop.
